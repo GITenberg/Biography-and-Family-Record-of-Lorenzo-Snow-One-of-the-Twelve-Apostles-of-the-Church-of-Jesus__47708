@@ -1,10 +1,16 @@
 _repo: Biography-and-Family-Record-of-Lorenzo-Snow-One-of-the-Twelve-Apostles-of-the-Church-of-Jesus__47708
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47708-h/images/cover.jpg
 creator:
   author:
     agent_name: Smith, Eliza R. Snow
     gutenberg_agent_id: '44436'
     url: http://www.gutenberg.org/2009/agents/44436
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47708#Biography-and-Family-Record-of-Lorenzo-Snow-One-of-the-Twelve-Apostles-of-the-Church-of-Jesus_
 gutenberg_bookshelf: Latter Day Saints
 gutenberg_issued: '2014-12-19'
 gutenberg_type: Text
